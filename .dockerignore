@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.pyc
+Python-RVO2
+pysteam/.git
+original_HA_and_PT_results
+HA_and_PT_results
